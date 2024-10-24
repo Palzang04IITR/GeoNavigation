@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487755456814",
+    "project_id": "newscreen-f3529",
+    "storage_bucket": "newscreen-f3529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487755456814:android:25e2731b48ae99fb905abf",
+        "android_client_info": {
+          "package_name": "com.example.newscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPDYrGpB9BwxT7RKRBmQ5kmygO1KX4WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
